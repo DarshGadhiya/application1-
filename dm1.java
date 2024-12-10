@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class dm1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("enter the marks of English:");
+        System.out.println("enter the marks of English is:");
         float a=sc.nextFloat();   
-        System.out.println("Enter the marks of pysics:");
+        System.out.println("Enter the marks of pysics is:");
         float b=sc.nextFloat();
-        System.out.println("enter the marks of maths:");
+        System.out.println("enter the marks of maths is:");
         float c=sc.nextFloat();
 
         float sum=a+b+c;
